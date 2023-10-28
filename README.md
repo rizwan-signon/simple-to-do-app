@@ -1,3 +1,4 @@
 # simple-to-do-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-6ziqxj)
+simple to do app
+that keep track of your daily activities
